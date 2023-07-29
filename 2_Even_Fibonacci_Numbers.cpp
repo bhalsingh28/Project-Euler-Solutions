@@ -14,7 +14,5 @@ int main(){
         if(next%2==0) sum+= next;
         if(next>=4000000) break;
     }
-
     cout << sum;
-
 }
